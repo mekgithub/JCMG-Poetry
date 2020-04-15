@@ -7,6 +7,9 @@ There's nothing to fear but fear itself
 You can't succeed if you don't try
 Positive thinking will work wonders
 
+'WE NEED EACH OTHER TO SUCCEED"
+We will get the job soon I hope.
+
 This couplet poem just signed to me
 
 public class ExcelWrite {
@@ -26,5 +29,6 @@ public class ExcelWrite {
 Adding something...
 
 Answwering  Mr X s question
-This line For Mr X Branch
-
+Mr Mehmet 
+I am adding the author name "ROBERTA DAY".
+'Greetings' to Master Branch
